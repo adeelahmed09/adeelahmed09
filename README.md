@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @adeelahmed09
-- 👀 I’m interested in suggestion which help me to improve my skills 
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m @adeelahmed09.
+- 🗓️ I'm 17.
+- 👀 I’m interested in suggestion which help me to improve my skills. 
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me : adeel0ahmed10@gmail.com
 
 
